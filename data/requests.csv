@@ -1,0 +1,9 @@
+SenderCity,ReceiverCity,DistanceKm,WeightKg,IsFragile
+Almaty,Astana,12.5,3.0,false
+Almaty,Shymkent,7.0,10.0,true
+Astana,Karaganda,2.0,5.0,false
+Shymkent,Aktau,0,2.0,false
+Almaty,Atyrau,abc,4.0,true
+,Astana,5.0,1.5,false
+Astana,Almaty,1.0,-3.0,true
+Karaganda,Almaty,25.0,8.0,true
