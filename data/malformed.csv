@@ -1,0 +1,4 @@
+SenderCity,ReceiverCity,DistanceKm,WeightKg,IsFragile
+Almaty,Astana,12.5,3.0,false
+InvalidCorruptedLineWithoutEnoughColumns
+Karaganda,Almaty,25.0,8.0,true
