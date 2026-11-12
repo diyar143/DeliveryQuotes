@@ -11,6 +11,13 @@
     <None Update="data\*.*">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="native\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="native\delivery_fee.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>delivery_fee.dll</Link>
+    </None>
   </ItemGroup>
 
 </Project>

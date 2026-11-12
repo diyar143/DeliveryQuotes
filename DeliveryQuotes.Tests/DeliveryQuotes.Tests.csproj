@@ -24,4 +24,11 @@
     <ProjectReference Include="..\DeliveryQuotes\DeliveryQuotes.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="..\DeliveryQuotes\native\delivery_fee.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>delivery_fee.dll</Link>
+    </None>
+  </ItemGroup>
+
 </Project>
